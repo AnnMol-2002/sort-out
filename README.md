@@ -2,8 +2,6 @@
 The worldwide pandemic has made education completely online.  All the assignments, notes and even exams have become online.  Being students, our gallery is full of  notes , handwritten and otherwise. It's  disorganised and messy. There was a need for an app to automatically select and organize the notes for ease of access.This was the main idea that drove us to come up with the app 'Sort-Out'.
 ## What it does
 Our app ‘Sort-out’ can automatically separate academic notes, handwritten and otherwise and thus  de-clutter our gallery. It uses machine learning to convert the handwritten notes into editable text formats. It also automatically  categorizes the notes into different topics. The added features that includes a calendar, to-do list and other resources make it a complete student friendly app.
-## What it does
-Our app ‘Sort-out’ can automatically separate academic notes, handwritten and otherwise and thus  de-clutter our gallery. It uses machine learning to convert the handwritten notes into editable text formats. It also automatically  categorizes the notes into different topics. The added features that includes a calendar, to-do list and other resources make it a complete student friendly app.
 ## Challenges we ran into
 Being beginners we weren't able to delve into the real-world implementation of the app. We had a hard time learning about the theory aspects of machine learning
 ## What we learned
